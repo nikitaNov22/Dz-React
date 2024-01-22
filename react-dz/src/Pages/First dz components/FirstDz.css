@@ -1,0 +1,51 @@
+.container {
+    height: 93.2vh;
+    width: 88rem;
+    margin: auto;
+    background-color: #d0d0d0;
+    padding-top: 3rem;
+
+}
+
+.contentContainer {
+    display: flex;
+    flex-direction: row;
+    width: 80rem;
+    margin: auto;
+    padding-top: 1rem;
+}
+
+.textContainer {
+    margin-left: 5rem;
+}
+
+.imagesContainer {
+    margin-top: -2rem;
+    margin-left: 17rem;
+}
+
+
+img {
+    width: 25rem;
+}
+
+h2 {
+    margin: 1rem 0 0 7rem;
+}
+
+.textLi {
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+ul {
+    width: 25rem;
+}
+
+span {
+    font-weight: 500;
+}
+
+p {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
